@@ -1,0 +1,2 @@
+  <%@ page contentType="text/html; charset=UTF-8" %>
+    <h1 align="center">江苏省职称计算机考试网上报名系统</h1>

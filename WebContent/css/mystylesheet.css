@@ -1,0 +1,71 @@
+@charset "utf-8";
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #000000;
+	
+       
+}
+.twoColHybLtHdr{
+	background-color:#b0c4de;
+}
+
+.twoColHybLtHdr #container {
+	width: 80%;  
+	background:#F4F4F4;
+	margin: 0 auto; /*页边空白*/
+	border: 1px solid #000000;
+	text-align: left;
+} 
+.twoColHybLtHdr #header {
+	background:#EBEBEB;
+	padding: 0 10px;
+} 
+.twoColHybLtHdr #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+}
+
+
+.twoColHybLtHdr #sidebar1 {
+	float: left; 
+	width: 12em; 
+	background: #EBEBEB; 
+	padding: 15px 0; 
+}
+.twoColHybLtHdr #sidebar1 h3, .twoColHybLtHdr #sidebar1 p {
+	margin-left: 10px; 
+	margin-right: 10px;
+}
+
+
+.twoColHybLtHdr #mainContent { 
+	margin: 10vh 20px 0 13em;	 
+} 
+.twoColHybLtHdr #footer { 
+	padding: 0 10px; 
+	background:#EBEBEB;
+} 
+.twoColHybLtHdr #footer p {
+	margin: 0; 
+	padding: 10px 0; 
+}
+
+
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
